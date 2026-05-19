@@ -19,8 +19,7 @@ dist/
 *.egg-info/
 
 logs/
-chroma_db/
-data/
+
 
 .DS_Store
 # Byte-compiled / optimized / DLL files
